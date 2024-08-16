@@ -5,10 +5,10 @@ This project demonstrates the process of classifying images using the CIFAR-10 d
 The CIFAR-10 dataset consists of 60,000 32x32 color images across 10 classes, with 6,000 images per class. The classes represent airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Our goal is to build a model that can accurately classify these images into their respective categories.
 
 ## Steps Involved
-Data Preprocessing:
+## Data Preprocessing:
 
--Load the CIFAR-10 dataset.
--Normalize the image data to improve model performance.
+##### Load the CIFAR-10 dataset.
+##### Normalize the image data to improve model performance.
 ## ANN Model Training:
 
 -Build a simple Artificial Neural Network to serve as a baseline.

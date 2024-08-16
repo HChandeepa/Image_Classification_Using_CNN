@@ -9,7 +9,7 @@
 ##### I built a simple Artificial Neural Network to serve as a baseline, trained the ANN model, and evaluated its performance on the test data. I observed the accuracy and identified the limitations of using an ANN for image classification.
 ## CNN Model Training:
 ##### I designed a Convolutional Neural Network tailored for image classification, trained the CNN model on the same dataset, and evaluated the CNN's performance, comparing it with the ANN.
-Performance Comparison:
+## Performance Comparison:
 ##### I compared the accuracy, loss, and general performance of the ANN and CNN models and understood why CNNs are preferred for image classification tasks.
 ## Conclusion
 ##### Through this project, I gained a better understanding of why Convolutional Neural Networks outperform Artificial Neural Networks in image classification tasks. The step-by-step approach helped me appreciate the advantages of using CNNs, especially when working with visual data.
